@@ -34,6 +34,7 @@ Paciente
 ![image](https://github.com/user-attachments/assets/214f3c43-b513-4fbb-8489-b79f6c12e36f)
 
 Principal
+
 ![image](https://github.com/user-attachments/assets/ec9e0de8-fb4b-441c-9832-46b41adbe818)
 
 Resultado
